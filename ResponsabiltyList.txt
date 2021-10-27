@@ -1,0 +1,14 @@
+App
+RENDERIZAR dispaly  + Button
+ENVIAR texto a cada boton 
+DEFINIR función de cada bottón
+ENVIAR función a cada botón
+
+Display
+RECIBIR dato
+RENDERIZAR dato
+
+Button
+RENDERIZAR text botton
+RECIBIR funcion
+LLAMAR a esa función al clickar
